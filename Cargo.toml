@@ -2,6 +2,7 @@
 name = "prsqlite"
 version = "0.1.0"
 edition = "2021"
+license = "Apache-2.0"
 license-file = "LICENSE"
 description = "Pure Rust SQLite"
 homepage = "https://github.com/kawasin73/prsqlite"
